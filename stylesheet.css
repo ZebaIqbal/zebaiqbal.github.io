@@ -1,5 +1,7 @@
 body {background-color: #CC6633}
 h1 {color: white;text-align: center;
-p h3{color: white;font-family: Helvetica, Arial, sans-serif}	
+p {margin-left:2cm;}
+p {border-style:solid;border-top-color:#ff0000}
+p {color: white;font-family: Helvetica, Arial, sans-serif}	
 	
     
